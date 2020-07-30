@@ -1,4 +1,4 @@
-# React Web  App
+# React Web App TS
 
 ### Development
 ```bash
@@ -10,6 +10,12 @@ yarn start
 
 Dev web server runs at [localhost:3000](http://localhost:3000)
 
+### Testing
+```bash
+yarn jest:coverage
+yarn cypress:open
+yarn cypress:run
+```
 
 ### Create React App
 * [CRA TypeScipt](https://create-react-app.dev/docs/adding-typescript/)
