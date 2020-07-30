@@ -2,8 +2,8 @@
 
 ### Development
 ```bash
-git clone https://github.com/aslamj/react-web-app.git
-cd react-web-app
+git clone https://github.com/aslamj/react-web-app-ts.git
+cd react-web-app-ts
 yarn
 yarn start
 ```
